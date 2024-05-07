@@ -1,7 +1,12 @@
+import { GlobalStyle } from './global-style';
+
 function App() {
   return (
     <>
-      <div>test</div>
+        <GlobalStyle />
+        <div>
+            GET YOUR KOREAN NAME
+        </div>
     </>
   )
 }
